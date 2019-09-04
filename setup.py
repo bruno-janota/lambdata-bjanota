@@ -1,19 +1,20 @@
 """
-lambdata-bjanota - A Collection of Data Science helper functions.
+lambdata-bruno-janota - A Collection of Data Science helper functions.
 """
 
 import setuptools
 
 REQUIRED = [
     "numpy",
-    "pandas"
+    "pandas",
+    "sklearn"
 ]
 
 with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
 
 setuptools.setup(
-    name="lambdata-bjanota",
+    name="lambdata-bruno-janota",
     version="0.0.1",
     author="bruno-janota",
     description="A collection of Data Science helper functions",

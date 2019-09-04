@@ -1,5 +1,5 @@
 """
-lambdata-bjanota - A Collection of Data Science helper functions.
+lambdata-bruno-janota - A Collection of Data Science helper functions.
 """
 
 import pandas as pd
